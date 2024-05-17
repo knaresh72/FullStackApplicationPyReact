@@ -1,0 +1,7 @@
+environment:
+  name: Git_ENV
+  identifier: Git_ENV
+  accountId: 0KRx5IoYTdmrfozf73RP_Q
+  orgIdentifier: default
+  projectIdentifier: FullStackApplication
+  type: PreProduction
